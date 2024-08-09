@@ -6,8 +6,6 @@ data:
   AWS_REGION: us-east-1
   JWT_SECRET: testing
   POSTGRES_DB: postgres
-  POSTGRES_USERNAME: postgres
-  POSTGRES_PASSWORD: Sitamvongtuong
   POSTGRES_HOST: postgres.ce5okt34odlj.us-east-1.rds.amazonaws.com
   URL: http://localhost:8100
 metadata:
