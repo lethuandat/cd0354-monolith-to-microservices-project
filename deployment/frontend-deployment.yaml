@@ -16,7 +16,7 @@ spec:
         api: external
     spec:
       containers:
-        - image: lethuandat/udagram-frontend:v4
+        - image: lethuandat/udagram-frontend:v6
           name: frontend
           imagePullPolicy: Always
           ports:
